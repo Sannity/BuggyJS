@@ -1,0 +1,19 @@
+{
+  "name": "buggyjs",
+  "version": "1.0.0",
+  "description": "A web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sannity/BuggyJS.git"
+  },
+  "author": "Austin Monson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sannity/BuggyJS/issues"
+  },
+  "homepage": "https://github.com/Sannity/BuggyJS#readme"
+}
